@@ -1,0 +1,8 @@
+.three{
+    border: 3px solid rgb(156, 5, 238);
+    background-color: rgb(18, 173, 194);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}

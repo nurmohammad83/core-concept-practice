@@ -1,0 +1,8 @@
+.two{
+        border: 3px solid red;
+        background-color: rgb(119, 218, 7);
+        color: white;
+        padding: 10px;
+        margin: 10px;
+        text-align: center;
+}

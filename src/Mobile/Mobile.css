@@ -1,0 +1,8 @@
+.mobile{
+    border: 3px solid rgb(206, 17, 231);
+    background-color: rgb(19, 201, 242);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
